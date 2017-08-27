@@ -1,0 +1,10 @@
+{
+	"atom-text-editor": {
+		"ctrl-l": "line-navigation:fuzzySearch"
+	},
+	".line-navigation": {
+		"enter": "line-navigation:next",
+		"shift-enter": "line-navigation:previous",
+		"alt-enter": "line-navigation:all"
+	}
+}
