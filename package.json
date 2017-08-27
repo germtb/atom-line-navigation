@@ -1,7 +1,7 @@
 {
   "name": "line-navigation",
   "main": "./lib/line-navigation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "activationEvents": [],
   "description": "Fuzzy search lines of your current file",
   "scripts": {
