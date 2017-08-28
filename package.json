@@ -1,7 +1,7 @@
 {
   "name": "line-navigation",
   "main": "./lib/line-navigation",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "activationEvents": [
     "line-navigation:fuzzySearch"
   ],
