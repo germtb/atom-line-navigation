@@ -4,7 +4,9 @@
 	},
 	".line-navigation": {
 		"enter": "line-navigation:next",
+		"ctrl-j": "line-navigation:next",
 		"shift-enter": "line-navigation:previous",
+		"ctrl-k": "line-navigation:previous",
 		"alt-enter": "line-navigation:all"
 	}
 }

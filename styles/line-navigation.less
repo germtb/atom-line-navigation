@@ -17,4 +17,25 @@
 
 .line-navigation-match__line {
 	text-align: left;
+	opacity: 0.8;
+	display: flex;
+
+	&--selected {
+		opacity: 1;
+		font-weight: bold;
+	}
+}
+
+.fuzzy-match {
+	display: flex;
+	overflow: scroll;
+}
+
+.fuzzy-match__character {
+	color: #568af2;
+}
+
+.line-navigation-wrapper .header {
+	max-height: 450px;
+	overflow: scroll;
 }
